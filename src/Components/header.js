@@ -1,5 +1,5 @@
 const renderHeader = (
-    <div>
+    <div class="fixed-top">
         <center>
             LOGIN
         </center>

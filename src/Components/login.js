@@ -1,5 +1,5 @@
 const renderForm = (
-          <div className="form">
+          <div class="">
             <form>
               <div className="input-container">
                 <label>Username </label>

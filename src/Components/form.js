@@ -15,3 +15,5 @@ const renderForm = (
       </form>
     </div>
  );
+
+ export default renderForm;
